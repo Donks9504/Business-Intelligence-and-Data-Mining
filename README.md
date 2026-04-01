@@ -1,6 +1,6 @@
 # Business-Intelligence-and-Data-Mining
 Bi and Data Mining Group Repository - 
-Francis, Jibson and Kiko
+Francis, Jibson, Mukhlis and Hsu San
 
 Stage 1: Problem Definition and Data Scoping
 First, you must define a clear business problem or question. This could be anything from
